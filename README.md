@@ -52,8 +52,6 @@ Chronic Kidney Disease (CKD) is a critical global health issue, affecting approx
 - Conducted unit testing and system testing for all modules.  
 - Validated the system with real-world CKD datasets.  
 
-## 📷 Snapshots  
-- Screenshots of login pages, prediction interfaces, and data upload modules included.  
 
 ## 📈 Future Enhancements  
 - Integration with other medical systems.  
